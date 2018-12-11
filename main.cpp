@@ -1,3 +1,10 @@
+/*
+ * O projeto foi feito pelos alunos:
+ *  Bruno Flávio Ferreira (bruno.flavio.ferreira@usp.br)
+ *  Edson Yudi Toma (edson.toma@usp.br)
+ *  Rafael Amaro Rolfsen (rafael.rolfsen@usp.br)
+*/
+
 #include <iostream>
 #include "Linear.h"
 
